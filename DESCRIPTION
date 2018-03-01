@@ -1,0 +1,17 @@
+Package: SplitR
+Type: Package
+Title: Use the HYSPLIT model from inside R
+Version: 0.4
+Author: Richard Iannone <riannone@me.com>
+Maintainer: Richard Iannone <riannone@me.com>
+Description: Use the HYSPLIT model from inside R and do more with it.
+License: MIT + file LICENSE
+Imports:
+    downloader (>= 0.4),
+    dplyr (>= 0.4.3),
+    ggmap (>= 2.6.1),
+    leaflet (>= 1.0.0),
+    lubridate (>= 1.5.0),
+    RCurl (>= 1.95),
+    scales (>= 0.4.0)
+RoxygenNote: 6.0.0
